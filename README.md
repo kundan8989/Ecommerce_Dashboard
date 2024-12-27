@@ -14,8 +14,11 @@ Power BI: Used for creating and designing the interactive dashboard and data vis
 
 #How It Works
 Data Input: Import online sales data into Power BI from various sources (e.g., Excel, databases, or APIs).
+
 Data Transformation: Clean and preprocess the data using Power Query.
+
 Visualization Creation: Design custom visualizations and dashboards using Power BI's drag-and-drop interface.
+
 Interactive Features: Implement filters, slicers, and drill-down capabilities for better user interaction.
 
 
@@ -47,7 +50,6 @@ Open a pull request on GitHub.
 Contact
 
 For any questions or suggestions, feel free to contact:
-
 Email: kundankumar8989k@gmail.com
 
 
