@@ -4,8 +4,11 @@ This project is an interactive Ecommerce Dashboard created using Power BI. It pr
 
 # Features
 -Dynamic Visualizations: Includes bar charts, pie charts, donut charts, and slicers for better understanding of the data.
+
 -Drill-Down Functionality: Utilizes complex parameters to enable detailed analysis at different levels of data granularity.
+
 -Customization: Incorporates filters and slicers to allow users to focus on specific data points or segments.
+
 -User-Friendly Interface: An intuitive and visually appealing design for seamless exploration of sales metrics.
 
 
@@ -22,7 +25,7 @@ Power BI: Used for creating and designing the interactive dashboard and data vis
 -Interactive Features: Implement filters, slicers, and drill-down capabilities for better user interaction.
 
 
-##Installation and Usage
+# Installation and Usage
 To use this dashboard:
 Clone the repository:
 git clone https://github.com/kundan8989/EcommerceDashboard.git
@@ -35,7 +38,7 @@ Refresh the data and explore the dashboard.
 
 
 
-Contributing
+## Contributing
 We welcome contributions to enhance the dashboard or expand its functionality. To contribute:
 Fork the repository.
 Create a new branch:
@@ -47,7 +50,7 @@ git push origin feature-name
 Open a pull request on GitHub.
 
 
-Contact
+###Contact
 
 For any questions or suggestions, feel free to contact:
 Email: kundankumar8989k@gmail.com
