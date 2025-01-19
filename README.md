@@ -1,25 +1,25 @@
-#Ecommerce Dashboard
+# Ecommerce Dashboard
 
 This project is an interactive Ecommerce Dashboard created using Power BI. It provides insights into online sales data through dynamic visualizations and advanced data analysis techniques. The dashboard is designed to help businesses make informed decisions by exploring sales trends, customer behavior, and key performance indicators.
 
-Features
-Dynamic Visualizations: Includes bar charts, pie charts, donut charts, and slicers for better understanding of the data.
-Drill-Down Functionality: Utilizes complex parameters to enable detailed analysis at different levels of data granularity.
-Customization: Incorporates filters and slicers to allow users to focus on specific data points or segments.
-User-Friendly Interface: An intuitive and visually appealing design for seamless exploration of sales metrics.
+# Features
+-Dynamic Visualizations: Includes bar charts, pie charts, donut charts, and slicers for better understanding of the data.
+-Drill-Down Functionality: Utilizes complex parameters to enable detailed analysis at different levels of data granularity.
+-Customization: Incorporates filters and slicers to allow users to focus on specific data points or segments.
+-User-Friendly Interface: An intuitive and visually appealing design for seamless exploration of sales metrics.
 
 
-Technologies Used
+3 Technologies Used
 Power BI: Used for creating and designing the interactive dashboard and data visualizations.
 
-#How It Works
-Data Input: Import online sales data into Power BI from various sources (e.g., Excel, databases, or APIs).
+# How It Works
+-Data Input: Import online sales data into Power BI from various sources (e.g., Excel, databases, or APIs).
 
-Data Transformation: Clean and preprocess the data using Power Query.
+-Data Transformation: Clean and preprocess the data using Power Query.
 
-Visualization Creation: Design custom visualizations and dashboards using Power BI's drag-and-drop interface.
+-Visualization Creation: Design custom visualizations and dashboards using Power BI's drag-and-drop interface.
 
-Interactive Features: Implement filters, slicers, and drill-down capabilities for better user interaction.
+-Interactive Features: Implement filters, slicers, and drill-down capabilities for better user interaction.
 
 
 ##Installation and Usage
