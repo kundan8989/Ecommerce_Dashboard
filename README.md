@@ -12,7 +12,8 @@ This project is an interactive Ecommerce Dashboard created using Power BI. It pr
 -User-Friendly Interface: An intuitive and visually appealing design for seamless exploration of sales metrics.
 
 
-3 Technologies Used
+# Technologies Used
+
 Power BI: Used for creating and designing the interactive dashboard and data visualizations.
 
 # How It Works
